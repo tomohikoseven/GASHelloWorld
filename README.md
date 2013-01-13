@@ -5,12 +5,12 @@
 <ソース概要>  
  Hello World出力。  
 
-<勉強の跡があるファイル>
- main.s
+<勉強の跡があるファイル>  
+ O0/main.s
 
-<main.sの作り方>
+<main.sの作り方>  
  SConstruct と main.c が同一ディレクトリにある場所で、以下のコマンドを実行。
 $ scons .
 
-<sconsのインストール>
+<sconsのインストール>  
  インターネットで検索願います。
